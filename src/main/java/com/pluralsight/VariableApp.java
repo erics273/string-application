@@ -16,6 +16,18 @@ public class VariableApp {
         //print this out to the screen
         System.out.println("The year i started this class was "  + startingYear);
 
+        //3.Declare a variable to store your middle initial
+        char middleIntial = 'C';
+        System.out.println("My middle initial is: " + middleIntial);
+
+        //4.Declare a variable to store whether you have pets (yes/no)
+        String doIhavePets = "yes";
+        System.out.println("I have a pets in this class is: " + doIhavePets);
+
+        //5.Declare a variable with a nice message or saying
+        String niceMessage = "It is a beautiful day to write some Java code";
+        System.out.println("My nice message is: " + niceMessage);
+
 
     }
 
